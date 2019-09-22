@@ -1,0 +1,7 @@
+E:\Programming\C#\FinancialTracker\FinancialTracker\bin\Debug\FinancialTracker.exe.config
+E:\Programming\C#\FinancialTracker\FinancialTracker\bin\Debug\FinancialTracker.exe
+E:\Programming\C#\FinancialTracker\FinancialTracker\bin\Debug\FinancialTracker.pdb
+E:\Programming\C#\FinancialTracker\FinancialTracker\obj\Debug\FinancialTracker.csprojAssemblyReference.cache
+E:\Programming\C#\FinancialTracker\FinancialTracker\obj\Debug\FinancialTracker.csproj.CoreCompileInputs.cache
+E:\Programming\C#\FinancialTracker\FinancialTracker\obj\Debug\FinancialTracker.exe
+E:\Programming\C#\FinancialTracker\FinancialTracker\obj\Debug\FinancialTracker.pdb
